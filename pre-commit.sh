@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # stash unstaged changes so that they arent included in the 
 # test below
 STASH_NAME="pre-commit-$(date +%s)"
