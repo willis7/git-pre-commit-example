@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # stash unstaged changes so that they arent included in the 
 # test below
