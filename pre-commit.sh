@@ -13,5 +13,5 @@ if [[ $STASHES == "$STASH_NAME" ]]; then
   git stash pop -q
 fi
 
-[ $RESULT -ne 0 ] && exit 1
-exit 0
+# [ $RESULT -ne 0 ] && exit 1
+# exit 0
